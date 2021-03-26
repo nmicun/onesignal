@@ -1,0 +1,144 @@
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/Xamarin.iOS.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/Mono.Security.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/Xamarin.PreBuilt.iOS.exe [External]
+Thread started:  #2
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/Xamarin.PreBuilt.iOS.Library.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/netstandard.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Core.dll [External]
+2021-03-26 12:00:08.021 Xamarin.PreBuilt.iOS[3622:481835] Content folder: /var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content
+
+Thread started:  #3
+Thread started: <Thread Pool> #4
+Thread started: <Thread Pool> #5
+Thread started: <Thread Pool> #6
+2021-03-26 12:00:09.269 Xamarin.PreBuilt.iOS[3622:481835] Forms app path /var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/AppPersonalTrainer.iOS.exe
+
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/AppPersonalTrainer.iOS.exe
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Xamarin.Forms.Platform.iOS.dll [External]
+2021-03-26 12:00:09.301 Xamarin.PreBuilt.iOS[3622:481835] Xamarin.Forms AppDelegate name: AppDelegate
+
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Xamarin.Forms.Core.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.Connections.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.SignalR.Client.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.Extensions.Options.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.Http.Connections.Client.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.SignalR.Common.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.Http.Connections.Common.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/AutoMapper.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/OxyPlot.Xamarin.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/OxyPlot.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Runtime.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/FFImageLoading.Platform.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/FFImageLoading.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Reflection.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Threading.Tasks.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.IO.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/System.Text.Json.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Memory.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.Bcl.AsyncInterfaces.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.Core.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfBusyIndicator.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.GridCommon.Portable.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.ObjectModel.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Collections.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/System.Threading.Channels.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AppCenter.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AppCenter.iOS.Bindings.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfPicker.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/OxyPlot.Xamarin.Forms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Xamarin.Forms.Platform.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Plugin.Settings.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.DataSource.Portable.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Globalization.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfComboBox.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Xamarin.Forms.Xaml.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/FFImageLoading.Svg.Forms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/FFImageLoading.Forms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/MessagePack.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Numerics.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Threading.Tasks.Extensions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/ModernHttpClient.dll
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Net.Http.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Newtonsoft.Json.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Com.OneSignal.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Com.OneSignal.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfCalendar.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfCalendar.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.SignalR.Protocols.Json.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.Buttons.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.Buttons.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.Core.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Plugin.Settings.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.Expander.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.Expander.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.SignalR.Client.Core.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/OneSignal.iOS.Binding.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfRichTextEditor.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfRichTextEditor.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/WebP.Touch.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/AppPersonalTrainer.dll
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/SkiaSharp.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Xml.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Linq.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/AutoMapper.Extensions.Microsoft.DependencyInjection.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/FFImageLoading.Forms.Platform.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfPopupLayout.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfChat.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfListView.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.Extensions.Logging.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.Extensions.Logging.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.Licensing.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Runtime.Extensions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfPicker.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfPicker.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/System.Runtime.CompilerServices.Unsafe.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Plugin.Media.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.Http.Features.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.Extensions.Primitives.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/System.IO.Pipelines.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfComboBox.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfChat.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/System.Text.Encodings.Web.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfListView.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/FFImageLoading.Svg.Platform.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Xml.Linq.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/OxyPlot.Xamarin.Forms.Platform.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfPopupLayout.XForms.iOS.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.Extensions.DependencyInjection.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfBusyIndicator.XForms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.Extensions.DependencyInjection.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/System.Diagnostics.DiagnosticSource.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Diagnostics.Tracing.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Xamarin.Essentials.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Microsoft.AspNetCore.SignalR.Protocols.MessagePack.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/FFImageLoading.Transformations.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/C4DA2BFB-90B2-4DE0-A4BA-43DE113C4BAA/Documents/AppPersonalTrainer.iOS.content/Syncfusion.SfBusyIndicator.XForms.iOS.dll [External]
+Resolved pending breakpoint for 'AppPersonalTrainer.iOS.Application.Main(System.String[])' to C:\Users
+ikolam\source\repos
+micun\AppPersonalTrainer\AppPersonalTrainer\AppPersonalTrainer.iOS\Main.cs:14 [0x00000].
+[HotReload] (2021-03-26 12:00:10.8): INFO: XAML Hot Reload initializing...
+[HotReload] (2021-03-26 12:00:10.8): WARN: (AppPersonalTrainer.iOS) Unknown Breakpoint Hit: AppPersonalTrainer.iOS.Application.Main(string[] args)
+Thread started: <Thread Pool> #7
+Loaded assembly: data-0x10d8cc000 [External]
+Loaded assembly: data-0x10d8d8000 [External]
+Loaded assembly: data-0x10d8e4000 [External]
+Loaded assembly: data-0x10d8f4000 [External]
+Loaded assembly: data-0x10d938000 [External]
+Resolved pending breakpoint for 'Xamarin.HotReload.HotReloadAgent.BreakpointSendToIde(System.String)' to d:\a\1\s\Source\Xamarin.HotReload.Agent\HotReloadAgent.cs:370 [0x00000].
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Resources.ResourceManager.dll [External]
+Thread started:  #8
+Thread started:  #9
+Thread started:  #10
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Runtime.Serialization.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.ServiceModel.Internals.dll [External]
+Resolved pending breakpoint for 'Xamarin.HotReload.HotReloadAgent.BreakpointCheckpoint()' to d:\a\1\s\Source\Xamarin.HotReload.Agent\HotReloadAgent.cs:365 [0x00000].
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Drawing.Common.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Reflection.Extensions.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Threading.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/0ABD356B-E3A7-43F6-ABF7-5EB8C1B83C2A/AppPersonalTrainer.iOS.app/System.Net.Primitives.dll [External]
+Thread started: <Thread Pool> #11
+Thread started: <Thread Pool> #12
+[HotReload] (2021-03-26 12:00:11.3): INFO: (AppPersonalTrainer.iOS) (HotReloadAgent) HotReload: Initialized Agent.
+[HotReload] (2021-03-26 12:00:14.5): INFO: XAML Hot Reload Connected and Ready.
+Thread started: <Thread Pool> #13
